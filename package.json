@@ -1,0 +1,26 @@
+{
+  "name": "api-gateway-firewall",
+  "version": "1.0.0",
+  "description": "Modular and reusable API Gateway Firewall with rate limiting, circuit breaker, and IP blocking logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "api-gateway",
+    "firewall",
+    "rate-limiter",
+    "circuit-breaker",
+    "ip-blocker",
+    "express-middleware"
+  ],
+  "author": "Varsha (varshaydv0208@gmail.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varshaazz/api-gateway"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
